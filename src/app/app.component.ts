@@ -13,5 +13,5 @@ export class AppComponent implements OnInit {
     setInterval(() => {
       this.counter++;
     }, 1000);
-}
+  }
 }
